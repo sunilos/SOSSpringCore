@@ -13,7 +13,7 @@
 	<properties>
 		<springframework.version>5.1.4.RELEASE</springframework.version>
 		<hibernate.version>5.2.11.Final</hibernate.version>
-		<hibernate.validator>5.4.1.Final</hibernate.validator>
+		<hibernate.validator>5.4.2.Final</hibernate.validator>
 		<c3p0.version>0.9.5.2</c3p0.version>
 	</properties>
 
